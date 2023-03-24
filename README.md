@@ -7,7 +7,7 @@ I made this quiz, following a YouTube tutorial online by [Brian Designs](https:/
 I would like to give a big shoutout to [@Hacikoi-the-creator](https://github.com/Hachikoi-the-creator) who made a huge revamp to this project (in v8.0.0)[Pull Request #29](https://github.com/KendallDoesCoding/quiz/pull/29).
 
 ## Important
-Incase, music isn't playinf for you, please do the following steps:
+Incase, music isn't playing for you, please do the following steps:
 - Head over to to Google Sound Settings - https://chrome://settings/content/sound?search=Sound
 - Set it to "Sites can play sound"
 
@@ -46,6 +46,8 @@ The issue should be fixed. Incase of any further issue, please file a [Bug Repor
 [US Presidents Quiz](https://quiz.kendalldoescoding.tech/pages/presidents/index.html)
 
 [How Well Do You Know Kendall? Quiz](https://quiz.kendalldoescoding.tech/pages/kendall_quiz/index.html)
+
+[Programming Language Quiz](https://quiz.kendalldoescoding.tech/pages/programming_language/index.html)
 
 # Quiz Length Breakdown
 
